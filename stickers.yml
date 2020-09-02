@@ -21662,3 +21662,12 @@ f8f8a6ff99c034a154deb1ea1864eb45:
     - Telegram
   nsfw: false
   original: false
+4280da40834a27db07a524917a8be328:
+  key: 1c5316f915f878db12ce2cb7a3dd15d829c1f05aa3cf246ed9fa083d745a39c9
+  source: 'https://t.me/addstickers/SnappyCrab'
+  tags:
+    - animated
+    - SnappyCrab
+    - Crab
+  nsfw: true
+  original: false
